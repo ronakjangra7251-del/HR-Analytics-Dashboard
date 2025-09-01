@@ -12,8 +12,8 @@ This Power BI dashboard provides insights into **employee attrition, demographic
 - Sample HR Dataset  
 
 ## 📸 Dashboard Preview  
-![Dashboard Page 1](images/dashboard_page1.png)  
-![Dashboard Page 2](images/dashboard_page2.png)  
+![Dashboard Page 1](Images/dashboard_page1.png)  
+![Dashboard Page 2](Images/dashboard_page2.png)  
 
 ## 📂 Files  
 - `HR_Analytics.pbix` → Full interactive dashboard  
